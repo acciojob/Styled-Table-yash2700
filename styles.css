@@ -1,1 +1,23 @@
 /* your code */
+thead{
+	background-color:#6666ff;
+}
+th{
+	color:white;
+}
+th,td{
+	padding:0.7rem;
+	text-align:left;
+}
+
+table{
+	border-collapse:collapse;
+	border:1px solid whitesmoke;
+	border-radius:5px;
+	width:700px;
+}
+.table-wrapper{
+	
+}
+table tr:nth-child(even){background-color: #f2f2f2;}
+
